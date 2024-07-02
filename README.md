@@ -1,7 +1,7 @@
 # Sensor DHT11 - Umidade e Temperatura
 
 Termômetro com finalidade de medições de graus pequenos (de 0º a 50º C), no caso foi utilizado a comparação de medições reais com temperaturas 
-históricas extraídas de <a href="https://weatherspark.com/" target="_blank">Weather Spark</a>
+históricas extraídas de <a href="https://weatherspark.com/" target="_blank" rel="noopener noreferrer">Weather Spark</a>
 
 ## Lista de componentes:
 - Microcontrolador Arduino-UNO
