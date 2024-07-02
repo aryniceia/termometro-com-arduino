@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "sketch": "dados_temperatura\\dados_temperatura.ino",
+    "output": "../ArduinoOutput"
+}
